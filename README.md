@@ -2,6 +2,10 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://youtube.com/@theblack-n6f?si=T-uZBgxjHHDYuBvJ)
 
+
+## 📢 My Telegram Channel
+
+[![Telegram](https://img.shields.io/badge/Telegram-Join-blue?logo=telegram&logoColor=white)](https://t.me/theblackpiratess)
 ## Run Locally
 
 **Prerequisites:**  Node.js
